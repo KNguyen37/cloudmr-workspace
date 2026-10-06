@@ -1,6 +1,6 @@
 # CloudMR Workspace — Agentic MRI Synthesis (NYU Langone)
 
-Virtual monorepo: five independent git repos from github.com/cloudmrhub live under `repos/`.
+Virtual monorepo: five independent git repos from github.com/KNguyen37 (private copies of the cloudmrhub originals, fully detached) live under `repos/`.
 Each is its own git repo with its own branches, history, and CI. This root folder is NOT
 part of any of them. Always `cd` into (or use `git -C`) the specific repo before git commands.
 
